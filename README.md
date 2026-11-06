@@ -143,9 +143,15 @@ uk-filings-analyst/
 ```bash
 git clone https://github.com/jiebai0110/uk-filings-analyst.git
 cd uk-filings-analyst
-cp .env.example .env          # add LLM API key + Companies House API key
-docker compose up -d          # api, postgres+pgvector, langfuse
-python -m ingestion.run --manifest data/manifest.csv
+python -m venv .venv && source .venv/bin/activate
+pip install -e ".[dev]"
+cp .env.example .env          # add LLM API key (+ Companies House key from week 4)
+docker compose up -d          # postgres + pgvector (Langfuse added in week 3)
+
+# put annual-report PDFs in data/pdfs/ and list them in data/manifest.csv
+python -m ingestion.run --dry-run      # parse + chunk only, no API cost
+python -m ingestion.run                # embed and store
+uvicorn app.api.main:app --reload
 curl -X POST localhost:8000/ask -H "Content-Type: application/json" \
      -d '{"question": "What was Tesco group revenue in FY2024?"}'
 ```
