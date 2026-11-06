@@ -1,1 +1,22 @@
 company,company_number,year,url,filename
+Tesco,00445790,2023,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/t/LSE_TSCO_2023.pdf,tesco_2023.pdf
+Tesco,00445790,2024,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/t/LSE_TSCO_2024.pdf,tesco_2024.pdf
+Tesco,00445790,2025,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/t/LSE_TSCO_2025.pdf,tesco_2025.pdf
+Sainsbury's,00185647,2023,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/j/LSE_GB0767628_2023.pdf,sainsburys_2023.pdf
+Sainsbury's,00185647,2024,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/j/LSE_GB0767628_2024.pdf,sainsburys_2024.pdf
+Sainsbury's,00185647,2025,https://www.annualreports.co.uk/HostedData/AnnualReports/PDF/LSE_GB0767628_2025.pdf,sainsburys_2025.pdf
+Barclays,00048839,2023,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BARC_2023.pdf,barclays_2023.pdf
+Barclays,00048839,2024,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BARC_2024.pdf,barclays_2024.pdf
+Barclays,00048839,2025,https://www.annualreports.co.uk/HostedData/AnnualReports/PDF/LSE_BARC_2025.pdf,barclays_2025.pdf
+Unilever,00041424,2023,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/u/LSE_ULVR_2023.pdf,unilever_2023.pdf
+Unilever,00041424,2024,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/u/LSE_ULVR_2024.pdf,unilever_2024.pdf
+Unilever,00041424,2025,https://www.annualreports.co.uk/HostedData/AnnualReports/PDF/LSE_ULVR_2025.pdf,unilever_2025.pdf
+BT Group,04190816,2023,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BT_2023.pdf,bt_group_2023.pdf
+BT Group,04190816,2024,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BT_2024.pdf,bt_group_2024.pdf
+BT Group,04190816,2025,https://www.annualreports.co.uk/HostedData/AnnualReports/PDF/LSE_BT_2025.pdf,bt_group_2025.pdf
+BP,00102498,2023,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BP_2023.pdf,bp_2023.pdf
+BP,00102498,2024,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BP_2024.pdf,bp_2024.pdf
+BP,00102498,2025,https://www.annualreports.co.uk/HostedData/AnnualReports/PDF/LSE_BP_2025.pdf,bp_2025.pdf
+Marks and Spencer,04256886,2023,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/m/OTC_MAKSF_2023.pdf,marks_spencer_2023.pdf
+Marks and Spencer,04256886,2024,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/m/OTC_MAKSF_2024.pdf,marks_spencer_2024.pdf
+Marks and Spencer,04256886,2026,https://www.annualreports.co.uk/HostedData/AnnualReports/PDF/OTC_MAKSF_2026.pdf,marks_spencer_2026.pdf
