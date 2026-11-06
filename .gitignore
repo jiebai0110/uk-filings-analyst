@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+.ruff_cache/
+
+# Annual report PDFs are not redistributed — keep them local
+data/pdfs/
+*.pdf
+
+eval/results/*.json
